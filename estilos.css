@@ -21,3 +21,10 @@ body{
     background-image: url("fondo[1].jgp");
     float: left;
 }
+
+.titulo{
+font-size: 60px;
+color: black;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
