@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(0, 0, 0);
+    color: rgb(230, 216, 216);
 }
 .principal{
    display: flex;
@@ -24,7 +24,178 @@ body{
 
 .titulo{
 font-size: 60px;
-color: black;
+color: white;
 text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img1{
+    height: 300px;
+    width: 400px;
+    background-image: url("image1.jpg");
+    background-repeat: no-repeat;
+}
+
+.img2{
+    height: 400px;
+    width: 600px;
+    background-image: url("image2.webp");
+    background-repeat: no-repeat;
+
+}
+
+.img3{
+    height: 400px;
+width: 600px;
+background-image: url("image3.webp");
+background-repeat: no-repeat;
+}
+
+.img4{
+    height: 400px;
+    width: 600px;
+    background-image: url("image4.jpg");
+    background-repeat: no-repeat;
+}
+
+
+.img5{
+    height: 400px;
+    width: 400px;
+    background-image: url("image5.webp");
+    background-repeat: no-repeat;
+}
+
+.img6{
+    height: 400px;
+    width: 400px;
+    background-image: url("image6.png");
+    background-repeat: no-repeat;
+}
+
+.img7{
+    height: 400px;
+    width: 400px;
+    background-image: url("image7.jpg");
+    background-repeat: no-repeat;
+}
+
+.img8{
+    height: 400px;
+    width: 400px;
+    background-image: url("image8.webp");
+    background-repeat: no-repeat;
+}
+
+.img9{
+    height: 400px;
+    width: 400px;
+    background-image: url("image9.png");
+    background-repeat: no-repeat;
+
+}
+
+.img10{
+    height: 400px;
+    width: 400px;
+    background-image: url("image10.webp");
+    background-repeat: no-repeat;
+}
+
+.img11{
+    height: 400px;
+    width: 400px;
+    background-image: url("image11.jpeg");
+    background-repeat: no-repeat;
+}
+
+.img12{
+    height: 400px;
+    width: 400px;
+    background-image: url("image12.webp");
+    background-repeat: no-repeat;
+}
+
+.img14{
+    height: 400px;
+    width: 400px;
+    background-image: url("image14.jpg");
+    background-repeat: no-repeat;
+}
+
+.img15{
+    height: 400px;
+    width: 400px;
+    background-image: url("image15.webp");
+    background-repeat: no-repeat;
+}
+
+
+.img16{
+    height: 323px;
+    width: 500px;
+    background-image: url("image16.gif");
+    background-repeat: no-repeat;
+}
+
+.img17{
+    height: 323px;
+    width: 500px;
+    background-image: url("image17.jpg");
+    background-repeat: no-repeat;
+}
+
+.img18{
+    height: 323px;
+    width: 500px;
+    background-image: url("image18.png");
+    background-repeat: no-repeat;
+}
+.img19{
+    height: 323px;
+    width: 500px;
+    background-image: url("image19.jpg");
+    background-repeat: no-repeat;
+}
+
+.img20{
+    height: 323px;
+    width: 500px;
+    background-image: url("image20.jpg");
+    background-repeat: no-repeat;
+}
+
+.img21{
+    height: 323px;
+    width: 500px;
+    background-image: url("image21.jpg");
+    background-repeat: no-repeat;
+}
+
+.img22{
+    height: 323px;
+    width: 500px;
+    background-image: url("image22.jpg");
+    background-repeat: no-repeat;
+}
+
+.img23{
+    height: 323px;
+    width: 500px;
+    background-image: url("image23.gif");
+    background-repeat: no-repeat;
+}
+
+.img24{
+    height: 323px;
+    width: 500px;
+    background-image: url("image24.jpg");
+    background-repeat: no-repeat;
+}
+
+.img25{
+    height: 323px;
+    width: 500px;
+    background-image: url("image25.webp");
+    background-repeat: no-repeat;
 }
