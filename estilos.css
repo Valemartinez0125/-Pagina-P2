@@ -199,9 +199,73 @@ background-repeat: no-repeat;
     background-image: url("image25.webp");
     background-repeat: no-repeat;
 }
+
 .img26{
     height: 323px;
     width: 500px;
     background-image: url("SUMA.JPG");
+    background-repeat: no-repeat;
+}
+ 
+.img27{
+    height: 323px;
+    width: 500px;
+    background-image: url("image26.png");
+    background-repeat: no-repeat;
+}
+.img28{
+    height: 323px;
+    width: 500px;
+    background-image: url("image27.jfif");
+    background-repeat: no-repeat;
+}
+.img29{
+    height: 600px;
+    width: 540px;
+    background-image: url("image28.png");
+    background-repeat: no-repeat;
+}
+.img30{
+    height: 600px;
+    width: 540px;
+    background-image: url("image29.webp");
+    background-repeat: no-repeat;
+}
+.img31{
+    height: 600px;
+    width: 540px;
+    background-image: url("image30.webp");
+    background-repeat: no-repeat;
+}
+
+.img32{
+    height: 600px;
+    width: 540px;
+    background-image: url("image31.webp");
+    background-repeat: no-repeat;
+}
+
+.img33{
+    height: 600px;
+    width: 540px;
+    background-image: url("image32.webp");
+    background-repeat: no-repeat;
+}
+.img34{
+    height: 600px;
+    width: 610px;
+    background-image: url("image33.webp");
+    background-repeat: no-repeat;
+}
+.img35{
+    height: 600px;
+    width: 610px;
+    background-image: url("image34.webp");
+    background-repeat: no-repeat;
+}
+.img36{
+    height: 820px;
+    width: 1000px;
+    background-image: url("image35.webp");
     background-repeat: no-repeat;
 }
