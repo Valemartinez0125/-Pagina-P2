@@ -381,3 +381,35 @@ background-repeat: no-repeat;
     background-image: url("image52.jpg");
     background-repeat: no-repeat;
 }
+
+.img54{
+    height: 940px;
+    width: 4000px;
+    background-image: url("image53.png");
+    background-repeat: no-repeat;
+}
+
+.img55{
+    height: 940px;
+    width: 4000px;
+    background-image: url("image54.svg");
+    background-repeat: no-repeat;
+}
+.img56{
+    height: 940px;
+    width: 4000px;
+    background-image: url("image55.jpg");
+    background-repeat: no-repeat;
+}
+.img57{
+    height: 940px;
+    width: 4000px;
+    background-image: url("image56.webp");
+    background-repeat: no-repeat;
+}
+.img58{
+    height: 940px;
+    width: 4000px;
+    background-image: url("image57.jpg");
+    background-repeat: no-repeat;
+}
